@@ -1,6 +1,10 @@
 # APM
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
+This is a demo project which I developed while learning Angular4 from pluralsight. 
+
+# Home
+![alt text](https://github.com/RahulReddy-Arva/Angular4/blob/master/Screen%20Shot%202017-10-01%20at%205.41.51%20PM.png)
 
 ## Development server
 
